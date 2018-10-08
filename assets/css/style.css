@@ -1,10 +1,13 @@
+.camara{
+    height: 100%;
+    
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.buttom1 {
-    color:
-}
+
 
 .jumbotron {
     background-image: url("../images/bg2.jpg");
@@ -13,10 +16,7 @@ body {
 }
 
 .box1 {
-
-
     background-size: cover;
-
     text-align: center;
     color: white;
 }
@@ -33,11 +33,7 @@ body {
 
 
 
-.img-responsive1 {
-    max-width: 100%;
 
-
-}
 
 .panel-default {
     text-align: center;
